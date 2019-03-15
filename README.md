@@ -12,7 +12,7 @@ Juhendi kohta saab öelda, et on kompakte ja arusaadav. Dokumentatsioon on täie
 
 
 8. Git projektis on README.md, kus kirjeldatakse vajalikest muutustest seoses SDK versiooni muutustega.
-
+Ainukene muudatus tuli teha seoses millise Java versiooniga projekti jooksutatakse. Probleemi lahendasime kui määrasime kompileerimiseks Java 8 versiooni.
 
 
 9. Git projektis on README.md, kus kirjeldatakse juhendi muudest muutustest rakenduse terviklikumaks muutmise nimel.
