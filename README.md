@@ -16,3 +16,4 @@ Ainukene muudatus tuli teha seoses millise Java versiooniga projekti jooksutatak
 
 
 9. Git projektis on README.md, kus kirjeldatakse juhendi muudest muutustest rakenduse terviklikumaks muutmise nimel.
+Projektis kasutusel olevad koodijupuid mis sai võetud juhendist tuli ümber teha vastavalt vajadusele, pidime implementeerima custom adapterid, et parseda vastu tulevat jsonit objekti kujule ning selle kauda siis uuendada kasutajale vastavat infot.
